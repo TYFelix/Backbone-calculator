@@ -1,0 +1,29 @@
+timea.szentirmai@seon.io
+
+Hungary
+Budapest
+
+https://www.upwork.com/jobs/~0199055984ac0e1769
+
+
+
+Web Developer - JavaScript, PHP, HTML - Full Time Remote
+Full Stack Development
+Renewed 2 days ago
+Worldwide
+We are a fast-growing startup based out of Budapest and with an international presence and have developed a cutting edge system that protects online businesses from fraud.
+
+We’re looking for a JavaScript developer with a superb grasp of Backbone.js. (40 hours a week, European time zone).
+
+Our intuitive Admin Panel (GUI) helps thousands of fraud analysts work daily to analyze transactions, discover connections between suspicious users and configure the system to prevent similar cases.
+
+You will build exciting new features like customized widgets, collaboration tools, custom filters, tutorials. You will be joining a direct team of three developers and DevOps, quality assurance teams working in two week sprints.
+
+Skills and Qualifications
+*Features and utility functions of JavaScript, specifically backbone.js and the concepts behind models,
+collections, and views
+*Web markup, including HTML5 and CSS3
+*Fundamental REST API concepts
+*Building complex Web Applications using PHP and SQL
+
+Once the initial phase of the backbone.js is completed (approximately 3 to 6 months), we would love and need you to help us re-write the code to React. With more projects following this.
